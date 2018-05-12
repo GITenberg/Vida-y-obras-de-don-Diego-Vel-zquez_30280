@@ -1,0 +1,30 @@
+_repo: Vida-y-obras-de-don-Diego-Vel-zquez_30280
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Picón, Jacinto Octavio
+    aliases:
+    - Bouchet, Jacinto Octavio Picón y
+    - Picon, Jacinto Octavio
+    birthdate: 1852
+    deathdate: 1923
+    gutenberg_agent_id: '32053'
+    url: http://www.gutenberg.org/2009/agents/32053
+description: ''
+gutenberg_issued: '2009-10-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30280'
+  lccn: '33002282'
+language: es
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Velázquez, Diego, 1599-1660'
+- !lcc 'ND'
+title: Vida y obras de don Diego Velázquez
+url: http://www.gutenberg.org/ebooks/30280
